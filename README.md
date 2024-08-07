@@ -5,6 +5,7 @@ DOMAIN :WEB DEVELOMPMENT
 DURATION:JULY TO AUGUST 2024
 MENTOR :SRI LAKSHMI
 
+PROJECT: DO - TO -LIST
 Objective
 
 Purpose: Explain the main goal of the app. What problem does it solve or what need does it fulfill?
